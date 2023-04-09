@@ -1,0 +1,15 @@
+E:\Обучение в ГБ\#c itog\obj\Debug\net7.0\#c itog.csproj.AssemblyReference.cache
+E:\Обучение в ГБ\#c itog\obj\Debug\net7.0\#c itog.GeneratedMSBuildEditorConfig.editorconfig
+E:\Обучение в ГБ\#c itog\obj\Debug\net7.0\#c itog.AssemblyInfoInputs.cache
+E:\Обучение в ГБ\#c itog\obj\Debug\net7.0\#c itog.AssemblyInfo.cs
+E:\Обучение в ГБ\#c itog\obj\Debug\net7.0\#c itog.csproj.CoreCompileInputs.cache
+E:\Обучение в ГБ\#c itog\bin\Debug\net7.0\#c itog.exe
+E:\Обучение в ГБ\#c itog\bin\Debug\net7.0\#c itog.deps.json
+E:\Обучение в ГБ\#c itog\bin\Debug\net7.0\#c itog.runtimeconfig.json
+E:\Обучение в ГБ\#c itog\bin\Debug\net7.0\#c itog.dll
+E:\Обучение в ГБ\#c itog\bin\Debug\net7.0\#c itog.pdb
+E:\Обучение в ГБ\#c itog\obj\Debug\net7.0\#c itog.dll
+E:\Обучение в ГБ\#c itog\obj\Debug\net7.0\refint\#c itog.dll
+E:\Обучение в ГБ\#c itog\obj\Debug\net7.0\#c itog.pdb
+E:\Обучение в ГБ\#c itog\obj\Debug\net7.0\#c itog.genruntimeconfig.cache
+E:\Обучение в ГБ\#c itog\obj\Debug\net7.0\ref\#c itog.dll
